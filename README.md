@@ -70,7 +70,7 @@ QQ 从群文件下载的压缩包，默认藏在很深的应用私有目录里�
 /sdcard/Download/QQ/
 ```
 
-具体操作可看仓库里的录屏：
+具体操作可看仓库videos文件夹里的录屏：
 
 - `videos/qq_save_to_download.mp4`
 
@@ -190,7 +190,7 @@ MT 管理器虽然很强，但对完全不懂的人，光是“找到文件 → 
 | `videos/qq_save_to_download.mp4` | QQ 文件如何保存到 `Download/QQ` |
 | `videos/run_script.mp4` | 如何运行脚本并完成解压 |
 
-> 以上文件名为占位，具体以仓库 `videos/` 目录中实际文件为准。
+> 以上文件名部分为占位，具体以仓库 `videos/` 目录中实际文件为准。
 
 ## 支持的文件格式
 
